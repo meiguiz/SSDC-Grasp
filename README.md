@@ -24,7 +24,7 @@ Our test set used in grasp detection experimentson [Test set](https://drive.goog
 
 ### Train
 
-To train DCNet on the TranscCG dataset. 
+To train DCNet on the TransCG dataset. 
 ```
 $ python train.py --cfg [Configuration File]
 ```
@@ -32,7 +32,7 @@ $ python train.py --cfg [Configuration File]
 
 ### Evaluation
 
-To evaluate DCNet on the TranscCG dataset
+To evaluate DCNet on the TransCG dataset
 ```
 $ python test.py --cfg [Configuration File]
 ```
@@ -40,7 +40,7 @@ $ python test.py --cfg [Configuration File]
 
 ### Visualization
 
-To visualize the inference results of DCNet on the TranscCG dataset. Change the config and checkpoint in inference.yaml, input dirs in sample_inference.py to your path.
+To visualize the inference results of DCNet on the TransCG dataset. Change the config and checkpoint in inference.yaml, input dirs in sample_inference.py to your path.
 ```
 $ python sample_inference.py 
 ```
