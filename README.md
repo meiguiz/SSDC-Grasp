@@ -2,7 +2,7 @@
 Code for paper “SSDC-Grasp: A Joint Semantic Segmentation and Depth Completion Approach for Robotic Grasping of Transparent Objects”
 > Ling Tong, Kechen Song, Member, IEEE, Hongkun Tian, Yi Man, Fiqi Sun, Youwei Chen, Yunhui Yan, and Qinggang Meng, Senior Member, IEEE. 
 
-[图片6](https://github.com/meiguiz/SSDC-Grasp/assets/90629126/bb980c86-baf3-4051-b160-58d5a3e4661c)
+![图片6](https://github.com/meiguiz/SSDC-Grasp/assets/90629126/fac8854e-e88d-4d60-8a9d-5694e2b70144)
 
 ## SSNet
 ---
