@@ -7,7 +7,7 @@ Code for paper “SSDC-Grasp: A Joint Semantic Segmentation and Depth Completion
 ## SSNet
 ---
 
-The code of SSNet can be found at [code](https://drive.google.com/drive/folders/1LOUslijtms0wpNI_wNRVJ4iBi0kTV_a0?usp=drive_link) 
+The code of SSNet can be found at [code](https://github.com/meiguiz/SG-Grasp) 
 
 ## DCNet
 ---
@@ -15,7 +15,7 @@ The video of robotic experiments can be found at [this](https://youtu.be/aDSG2kh
 
 The video of 6-Dof robotic grasp experiments can be found at [this](https://youtu.be/aDSG2khDXCA). 
 
-Our test set used in grasp detection experimentson [Test set](https://github.com/meiguiz/SG-Grasp) 
+Our test set used in grasp detection experimentson [Test set](https://drive.google.com/drive/folders/1LOUslijtms0wpNI_wNRVJ4iBi0kTV_a0?usp=drive_link) 
 
 
 ## Getting Started
@@ -48,9 +48,9 @@ $ python sample_inference.py
 ### Grasp detection
 
 ---
-Using TF-grasp [code](https://github.com/WangShaoSUN/grasp-transformer) or other methods. Use the result of SSNet and DCNet as input rgb and depth, then predict the grasping pose.
+Using TF-grasp [code](https://github.com/WangShaoSUN/grasp-transformer) or other grasp detection methods. Use the result of SSNet and DCNet as input rgb and depth, then predict the grasping poses.
 
 ### Acknowledgement
 
-Code heavily inspired and modified from https://github.com/Galaxies99/TransCG.
+Code heavily inspired and modified from [code](https://github.com/Galaxies99/TransCG)
 
