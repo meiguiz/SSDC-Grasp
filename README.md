@@ -49,3 +49,8 @@ $ python sample_inference.py
 
 ---
 Using TF-grasp [code](https://github.com/WangShaoSUN/grasp-transformer) or other methods. Use the result of SSNet and DCNet as input rgb and depth, then predict the grasping pose.
+
+### Acknowledgement
+
+Code heavily inspired and modified from https://github.com/Galaxies99/TransCG.
+
