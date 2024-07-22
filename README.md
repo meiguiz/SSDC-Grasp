@@ -7,7 +7,7 @@ Code for paper “SSDC-Grasp: A Joint Semantic Segmentation and Depth Completion
 ## SSNet
 ---
 
-The code of SSNet can be found at [code](https://github.com/meiguiz/SG-Grasp) 
+The code of SSNet can be found at [code](https://github.com/meiguiz/SG-Grasp) Or you can use other semantic segmentation methods from MMSegmentation at [this](https://github.com/open-mmlab/mmsegmentation)
 
 ## DCNet
 ---
