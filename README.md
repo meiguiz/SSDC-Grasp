@@ -11,9 +11,9 @@ The code of SSNet can be found at [code](https://github.com/meiguiz/SG-Grasp)
 
 ## DCNet
 ---
-The video of robotic experiments can be found at [this](https://youtu.be/aDSG2khDXCA). 
+The video of 4-Dof robotic experiments can be found at [this](https://youtu.be/aDSG2khDXCA). 
 
-The video of 6-Dof robotic grasp experiments can be found at [this](https://youtu.be/aDSG2khDXCA). 
+The video of 6-Dof robotic grasp experiments coming soon. 
 
 Our test set used in grasp detection experimentson [Test set](https://drive.google.com/drive/folders/1LOUslijtms0wpNI_wNRVJ4iBi0kTV_a0?usp=drive_link) 
 
