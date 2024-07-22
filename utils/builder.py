@@ -68,13 +68,13 @@ class ConfigBuilder(object):
         
         A model, which is usually a torch.nn.Module object.
         """
-        from models.DFNet import DFNet
+        from models.DCNet import DCNet
         if model_params is None:
             model_params = self.model_params
-        type = model_params.get('type', 'DFNet')
+        type = model_params.get('type', 'DCNet')
         params = model_params.get('params', {})
-        if type == 'DFNet':
-            model = DFNet(**params)
+        if type == 'DCNet':
+            model = DCNet(**params)
         else:
             raise NotImplementedError('Invalid model type.')
         return model
