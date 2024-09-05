@@ -12,6 +12,7 @@ The code of SSNet can be found at [code](https://github.com/meiguiz/SG-Grasp). O
 ## DCNet
 ---
 The video of 4-Dof robotic experiments can be found at [this](https://youtu.be/aDSG2khDXCA). 
+
 The video of 6-Dof robotic experiments can be found at [this](https://youtu.be/oSqsC6vTzWg). 
 
 
